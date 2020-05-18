@@ -1,0 +1,2 @@
+rootProject.name='wheater App2'
+include ':app'

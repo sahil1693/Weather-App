@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="Refresh">Refresh</string>
+    <string name="api_key">439d4b804bc8187953eb36d2a8c26a02</string>
+    <string name="enter_the_zipcode">Enter the Zipcode</string>
+    <string name="string_enter_the_zipcode" >Enter the Zipcode</string>
+    <string name="enter_the_country_code">Enter the country code</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+</resources>
